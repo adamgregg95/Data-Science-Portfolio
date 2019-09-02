@@ -1,2 +1,4 @@
 # Data-Science-Portfolio
-A portfolio of my current data science projects 
+A Repository containing a portfolio of my data science projects. 
+
+# Projects
